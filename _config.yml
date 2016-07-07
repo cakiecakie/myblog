@@ -1,0 +1,7 @@
+default:
+  -
+    scope:
+      path:""
+    values:
+      layout:"default"
+baseurl: /myblog
